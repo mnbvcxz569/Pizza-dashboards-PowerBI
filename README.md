@@ -2,9 +2,7 @@
 Źródło danych: pizza_dataset
 
 Treść zadania:
-Jako analityk danych w firmie Histogram Smaku, specjalizującej się w
-sprzedaży pizzy w różnych lokalizacjach w kraju, otrzymałeś zadanie
-stworzenia interaktywnego dashboardu w Power BI. Dashboard ma pomóc
+Stwórz interaktywny dashboardu w Power BI. Dashboard ma pomóc
 zarządowi firmy lepiej zrozumieć wyniki sprzedaży i zidentyfikować
 kluczowe czynniki wpływające na zyski. Użyj dostarczonego zestawu
 danych, aby wizualizować kluczowe wskaźniki.
